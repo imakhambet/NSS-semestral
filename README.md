@@ -16,7 +16,7 @@
         <li>Import as Maven project</li>
         <li>Run Zookeeper a Apache Kafka (https://www.tutorialkart.com/apache-kafka/install-apache-kafka-on-mac/)</li>
         <li>Run application from your IDE</li>
-        <li>Open your browser and go to http://localhost:8080/</li>
+        <li>Open your browser and go to localhost:8080</li>
     </ul>
     
 <h3>How to login?</h3>
