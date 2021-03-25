@@ -1,5 +1,5 @@
 <h2>TripGuide</h2>
-<a src="https://github.com/imakhambet/NSS-semestral/blob/main/documents/documentationV2.pdf">Documentation in the Czech language</a>
+<a href="https://github.com/imakhambet/NSS-semestral/blob/main/documents/documentationV2.pdf">Documentation in the Czech language</a>
 <h3>Used technologies</h3>
     <ul>
     <li>Spring Boot</li>
