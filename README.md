@@ -1,23 +1,14 @@
 <h3>Pro startovani aplikace musite: </h3>
     <ul>
-        <li>Naimportovat projekt jako Maven projekt.</li>
-        <li>Pustit Zookeeper a Apache Kafka.</li>
-        <li>Spustit aplikace.</li>
+        <li>Import as Maven project</li>
+        <li>Run Zookeeper a Apache Kafka (https://www.tutorialkart.com/apache-kafka/install-apache-kafka-on-mac/)</li>
+        <li>Run application from your IDE</li>
     </ul>
-    Nebo go to <a href="https://nss-semestral-tripguide.herokuapp.com/"> Heroku </a>
     
-<h3>Prihlasovaci udaje:</h3>
+<h3>Data for login:</h3>
     <ul>
         <li>Admin: "admin", "12345678".</li>
-        <li>Delegate: bud vytvorit noveho pres admina nebo pouzit uz existujici "delegate", "12345678".</li>
-        <li>Tourist: bud vytvorit noveho pres admina nebo pouzit uz existujici "trumpdon", "12345678".    </li>
+        <li>Delegate: create new as admin or use exist user "delegate", "12345678".</li>
+        <li>Tourist: create new as admin or use exist user "trumpdon", "12345678".    </li>
     </ul>
-
-<h3> Pouzite design patterny </h3>
-    <ul>
-        <li>Iterator</li>
-        <li>Builder</li>
-        <li>Transfer Object Pattern</li>
-        <li>Abstract Entity(?)</li>
-        <li></li>
-    </ul># NSS-semestral
+# NSS-semestral
